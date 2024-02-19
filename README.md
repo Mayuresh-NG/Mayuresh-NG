@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 
 ### :hammer_and_wrench: Languages and Tools :
-<div>
+
   https://github-readme-stats.vercel.app/api?username=CharalambosIoannou&show_icons=true&theme=tokyonight
-</div>
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="cpp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="C++" alt="cpp" width="40" height="40"/>&nbsp;
