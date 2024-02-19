@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 
 ### :hammer_and_wrench: Languages and Tools :
-![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.CharalambosIoannou)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=CharalambosIoannou&show_icons=true&theme=tokyonight)
+![](https://visitor-badge.laobi.icu/badge?page_id=Mayuresh-NG)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mayuresh-NG&show_icons=true&theme=tokyonight)
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="cpp" width="40" height="40"/>&nbsp;
