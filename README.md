@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 ### :hammer_and_wrench: Languages and Tools :
-![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.Mayuresh-NG)
+![](https://visitor-badge.laobi.icu/badge?page_id=Mayuresh-NG.Mayuresh-NG)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mayuresh-NG&show_icons=true&theme=tokyonight)
 
 <div>
